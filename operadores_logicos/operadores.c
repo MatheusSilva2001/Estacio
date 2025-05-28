@@ -1,0 +1,3 @@
+// E (&&) se tiver duas expressões booleanas, ambas devem ser verdadeiras para o resultado ser verdadeiro. Mas se uma delas for falsa, o resultado será falso.
+// OU (||) se tiver duas expressões booleanas, o resultado será verdadeiro se pelo menos uma delas for verdadeira. Se ambas forem falsas, o resultado será falso.
+// NÃO (!) se tiver uma expressão booleana, o resultado será verdadeiro se a expressão for falsa e vice-versa.
